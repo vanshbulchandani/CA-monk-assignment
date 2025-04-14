@@ -7,6 +7,7 @@ A dynamic web application for testing and improving English language skills thro
 ## Features
 
 ### 🎯 Core Features
+
 - **10 Challenging Questions**: Test your language skills with carefully crafted sentences
 - **Timed Challenges**: 30 seconds per question to keep you engaged
 - **Interactive UI**: Drag-and-drop interface for word arrangement
@@ -15,6 +16,7 @@ A dynamic web application for testing and improving English language skills thro
 - **Comprehensive Results**: Detailed feedback with correct answers at the end
 
 ### 💡 Technical Features
+
 - **Modern React**: Built with React 18 and TypeScript
 - **Responsive Design**: Works seamlessly across all devices
 - **Elegant UI**: Styled with Tailwind CSS and shadcn/ui components
@@ -24,27 +26,32 @@ A dynamic web application for testing and improving English language skills thro
 ## Getting Started
 
 ### Prerequisites
+
 - Node.js 18.0 or higher
 - npm or yarn package manager
 
 ### Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/yourusername/sentence-construction-challenge.git
 ```
 
 2. Navigate to the project directory:
+
 ```bash
 cd sentence-construction-challenge
 ```
 
 3. Install dependencies:
+
 ```bash
 npm install
 ```
 
 4. Start the development server:
+
 ```bash
 npm run dev
 ```
@@ -97,9 +104,14 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Live Demo
+
+- Check out the live app here: [Sentence Construction Challenge](https://sentence-construction-challenge.netlify.app)
+
 ## Acknowledgments
 
 - Icons by [Lucide React](https://lucide.dev)
 - UI Components by [shadcn/ui](https://ui.shadcn.com)
-- Deployed on [Netlify](https://www.netlify.com)# CA-monk-assignment
+- Deployed on [Netlify](https://www.netlify.com)
+
 # CA-monk-assignment
